@@ -1,0 +1,3 @@
+Green - Processed, Into Master File
+Red- Ready for Processing
+Purple- Need to get it ready for Processing (Compression from X,Y)

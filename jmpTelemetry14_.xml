@@ -1,0 +1,37 @@
+﻿<JMPTelemetry xmlns:n="http://www.jmp.com/ns/telemetry" JMPVersion="14.3.0" Product="JMP Trial" OperatingSystem="Mac OS X" BuildNumber="" Expiration="" Architecture="64-Bit" CreationDate="07/30/2019 4:17 PM" SendRequested="0"
+>
+  <UsageCounts>
+    <Platform Name="GB Add Element Area" Count="1"/>
+    <Platform Name="GB Add Element Bar" Count="8"/>
+    <Platform Name="GB Add Element Box Plot" Count="2"/>
+    <Platform Name="GB Add Element Contour" Count="2"/>
+    <Platform Name="GB Add Element Histogram" Count="5"/>
+    <Platform Name="GB Add Element Line" Count="25"/>
+    <Platform Name="GB Add Element Line Of Fit" Count="4"/>
+    <Platform Name="GB Add Element Points" Count="8"/>
+    <Platform Name="GB Add Element Smoother" Count="4"/>
+    <Platform Name="GB Add Element Treemap" Count="1"/>
+    <Platform Name="GB Add Variable Color" Count="1"/>
+    <Platform Name="GB Add Variable Group X" Count="3"/>
+    <Platform Name="GB Add Variable Map Shape" Count="2"/>
+    <Platform Name="GB Add Variable Overlay" Count="2"/>
+    <Platform Name="GB Add Variable Page" Count="1"/>
+    <Platform Name="GB Add Variable Size" Count="1"/>
+    <Platform Name="GB Add Variable X" Count="58"/>
+    <Platform Name="GB Add Variable Y" Count="111"/>
+    <Platform Name="GB Data Size log2 1" Count="1"/>
+    <Platform Name="GB Data Size log2 10" Count="5"/>
+    <Platform Name="GB Data Size log2 13" Count="6"/>
+    <Platform Name="GB Data Size log2 14" Count="10"/>
+    <Platform Name="GB Data Size log2 15" Count="1"/>
+    <Platform Name="GB Data Size log2 4" Count="2"/>
+    <Platform Name="GB Data Size log2 5" Count="3"/>
+    <Platform Name="GB Data Size log2 6" Count="3"/>
+    <Platform Name="GB Element Option Bar: Error Bars: Auto//Equivalent to Custom Interval if an Interval variable is in use; otherwise None." Count="1"/>
+    <Platform Name="GB Element Option Bar: Error Bars: Standard Deviation" Count="1"/>
+    <Platform Name="GB Make View" Count="282"/>
+    <Platform Name="Graph Builder" Count="30"/>
+    <Platform Name="JMP Starter" Count="9"/>
+    <Platform Name="Scatterplot 3D" Count="4"/>
+  </UsageCounts>
+</JMPTelemetry>
